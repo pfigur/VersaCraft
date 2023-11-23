@@ -1,11 +1,20 @@
 Instruções:
 
-    # export PATH="caminho/do/VersaCraft:$PATH"
-    # source .bashrc
-    # cd caminho/do/VersaCraft
-    # pip install -r requirements
+Adicione ao PATH:
 
-    Em qualquer lugar, no terminal, digite versa.py --help
+    export PATH="caminho/do/VersaCraft:$PATH"
+
+Atualize o BASHRC:
+
+    source .bashrc
+
+Navegue à pasta e instale os requirements:
+
+    cd caminho/do/VersaCraft & pip install -r requirements
+
+Em qualquer lugar, no terminal, digite:
+
+    versa.py --help
 
 Disclaimer:
 
